@@ -1,0 +1,10 @@
+name: DragonSpear
+version: 1.0
+main: me.nozrul.dragonspear.DragonSpear
+api-version: 1.21
+description: "Dragon Spear plugin with levels, abilities, GUI, and upgrade system."
+
+commands:
+  ds:
+    description: "Open Dragon Spear GUI"
+    usage: "/ds"
